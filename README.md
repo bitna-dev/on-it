@@ -1,7 +1,7 @@
 # On It - Job Application & Networking Tracker (Frontend)
 
 <div align="center">
-  <img src="./public/logo.png" alt="On It Logo" width="120" />
+  <img src="./public/onit_logo.png" alt="On It Logo" width="120" />
   
   <p>A modern job search management platform for tracking applications, networking, and referrals</p>
 
@@ -39,11 +39,11 @@ The name reflects the proactive mindset every job seeker needs: staying organize
 
 - [x] 🎨 **Modern UI/UX** - Clean, professional design with Figma
 - [x] 📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop
-- [x] 🎯 **Kanban Board** - Drag-and-drop job applications across stages
-- [x] 👤 **Contact Management** - Organize your professional network
-- [x] 🔗 **Referral Tracking** - Link contacts to job applications
-- [x] ☕ **Coffee Chat Log** - Record networking meetings and set follow-ups
-- [x] 📅 **Interview Timeline** - Track multiple interview rounds
+- [] 🎯 **Kanban Board** - Drag-and-drop job applications across stages
+- [] 👤 **Contact Management** - Organize your professional network
+- [] 🔗 **Referral Tracking** - Link contacts to job applications
+- [] ☕ **Coffee Chat Log** - Record networking meetings and set follow-ups
+- [] 📅 **Interview Timeline** - Track multiple interview rounds
 
 ### Upcoming (Phase 2)
 
@@ -176,13 +176,30 @@ on-it-frontend/
 
 ### Color Palette
 
+**Light Mode:**
+
 ```css
-Primary:   #3B82F6 (Blue)
-Secondary: #8B5CF6 (Purple)
-Success:   #10B981 (Green)
-Warning:   #F59E0B (Amber)
-Error:     #EF4444 (Red)
-Background: #F9FAFB (Light Gray)
+Primary:    #4F7BFF (Blue)
+Surface:    #F8F9FC (Card Background)
+Success:    #10B981 (Green - Referrals)
+Warning:    #F59E0B (Amber)
+Error:      #EF4444 (Red)
+Background: #FFFFFF (Main)
+
+Badge Colors:
+- Recruiter: #8B5CF6 (Purple)
+- Employee:  #3B82F6 (Blue)
+- Alumni:    #F97316 (Orange)
+- Referral:  #10B981 (Green)
+```
+
+**Dark Mode:**
+
+```css
+Background: #0F1419 (Main)
+Surface:    #1A1F2E (Card Background)
+Primary:    #6B92FF (Lighter Blue)
+Border:     #2D3748
 ```
 
 ### Typography
