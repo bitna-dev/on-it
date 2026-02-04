@@ -310,32 +310,14 @@ npm run codegen:watch
 
 ---
 
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👤 Author
 
 **Your Name**
 
-- Portfolio: [yourwebsite.com](https://bitna-dev.vercel.app/)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/bitna-dev)
-- GitHub: [@yourusername](https://github.com/bitna-dev)
-- Email: your.email@example.com
+- Portfolio: [bitna-dev](https://bitna-dev.vercel.app/)
+- LinkedIn: [bitna-dev](https://linkedin.com/in/bitna-dev)
+- GitHub: [@bitna-dev](https://github.com/bitna-dev)
+- Email: bitna.dev@gamil.com
 
 ---
 
